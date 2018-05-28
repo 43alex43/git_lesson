@@ -1,5 +1,5 @@
 # I am AKter ))
-hello git!
+hello Git!
 Hello World!!
 Hello Cpp!
 # (c) 2018
